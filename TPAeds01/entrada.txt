@@ -1,0 +1,11 @@
+2
+0.0 50 50 15 80
+50 0.0 30 10 70
+5
+R
+-4.6 137.5 20 Ferrolita Aquavitae
+I
+R
+-14.2 135.0 13 Aquavitae Calaris Ferrolita
+E
+I

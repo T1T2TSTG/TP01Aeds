@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1732391253 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teste.h"
+
+1732397386 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\teste.h
+	"ListaSondas.h"
+
+1731865774 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\listasondas.h
+	"TADSonda.h"
+
+1732391855 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadsonda.h
+	"tadcompartimentos.h"
+
+1732416091 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadcompartimentos.h
+	"rochamineral.h"
+	<stdlib.h>
+
+1732401951 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\rochamineral.h
+	"TADlistaminerais.h"
+
+1731865801 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadlistaminerais.h
+	"TADmineral.h"
+
+1732391855 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadmineral.h
+	<stdio.h>
+
+1731865770 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\listasondas.c
+	<stdlib.h>
+	<stdio.h>
+	"ListaSondas.h"
+
+1732401804 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\rochamineral.c
+	<stdio.h>
+	<string.h>
+	"rochamineral.h"
+
+1732416091 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadcompartimentos.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"tadcompartimentos.h"
+
+1731865799 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadlistaminerais.c
+	<stdio.h>
+	<string.h>
+	"TADlistaminerais.h"
+
+1731865804 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadmineral.c
+	"Tadmineral.h"
+	<string.h>
+
+1732410910 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadsonda.c
+	"./TADSonda.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1732397721 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\teste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"teste.h"
+
