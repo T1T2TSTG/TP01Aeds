@@ -13,7 +13,7 @@ int main() {
     printf("Arquivo aberto com sucesso\n");
     TLista_de_Sondas lista;
     inicializaSistema(&lista, arquivo);
-    LSondaImprime(&lista);
+    //LSondaImprime(&lista);
     fclose(arquivo);
     printf("\nArquivo fechado com sucesso\n");
     return 0;
