@@ -31,9 +31,39 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="ListaSondas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ListaSondas.h" />
+		<Unit filename="TADSonda.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TADSonda.h" />
+		<Unit filename="TADlistaminerais.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TADlistaminerais.h" />
+		<Unit filename="TADmineral.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TADmineral.h" />
+		<Unit filename="dadoscompartimento.h" />
+		<Unit filename="entrada.txt" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="rochamineral.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rochamineral.h" />
+		<Unit filename="tadcompartimentos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tadcompartimentos.h" />
+		<Unit filename="teste.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="teste.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
