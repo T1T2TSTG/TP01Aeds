@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include "teste.h"
-//ababa
+
 int main() {
     FILE *arquivo = fopen("entrada.txt", "r");
     if (arquivo == NULL) {
