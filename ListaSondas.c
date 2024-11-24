@@ -12,12 +12,13 @@ int LSondaEhVazia(TLista_de_Sondas* pLista)
 {
  return (pLista->pPrimeiro == pLista->pUltimo);
 }
-void LSondaInsere(TLista_de_Sondas *pLista,TSonda* pSonda)
+int LSondaInsere(TLista_de_Sondas *pLista,TSonda* pSonda)
 {
  pLista->pUltimo->pProx = (Apontador) malloc(sizeof(TCelula));
  pLista->pUltimo = pLista->pUltimo->pProx;
  pLista->pUltimo->Sonda = *pSonda;
  pLista->pUltimo->pProx = NULL;
+ return 1;
 }
 int LSondaRetira(TLista_de_Sondas* pLista, TSonda* pSonda)
 {

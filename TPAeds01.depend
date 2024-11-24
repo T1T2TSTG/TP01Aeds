@@ -1,6 +1,5 @@
 # depslib dependency file v1.0
-1732391253 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\main.c
-	<stdio.h>
+1732465674 source:c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\main.c
 	<stdlib.h>
 	<string.h>
 	<math.h>
@@ -9,10 +8,10 @@
 1732397386 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\teste.h
 	"ListaSondas.h"
 
-1731865774 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\listasondas.h
+1732470563 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\listasondas.h
 	"TADSonda.h"
 
-1732391855 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadsonda.h
+1732468250 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadsonda.h
 	"tadcompartimentos.h"
 
 1732416091 c:\users\hpkil\documents\aids\tp01\tp01aeds\tpaeds01\tadcompartimentos.h

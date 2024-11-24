@@ -39,7 +39,7 @@ int main() {
             fscanf(arq, "%f %f %f %f %f", &sonda.latitude, &sonda.longitude, &sonda.Capacidade, &sonda.Velocidade, &sonda.Combustivel);
             InicializarSonda(&sonda, i + 1, sonda.latitude, sonda.longitude, sonda.Capacidade, sonda.Velocidade, sonda.Combustivel);
 
-            if (LSondaInsere(&pLista, &sonda)) {
+            if (LSondaInsere(&pLista, &sonda) == 1) {
                 printf("Sonda %d inserida com sucesso!\n", sonda.Identificador);
             } else {
                 printf("Falha ao inserir a sonda %d.\n", sonda.Identificador);

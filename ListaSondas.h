@@ -15,7 +15,7 @@ typedef struct {
 
 void FLSondaVazia(TLista_de_Sondas* pLista);
 int LSondaEhVazia(TLista_de_Sondas* pLista);
-void LSondaInsere(TLista_de_Sondas* pLista, TSonda *pSonda);
+int LSondaInsere(TLista_de_Sondas* pLista, TSonda *pSonda);
 int LSondaRetira(TLista_de_Sondas* pLista, TSonda *pSonda);
 void LSondaImprime(TLista_de_Sondas* pLista);
 #endif

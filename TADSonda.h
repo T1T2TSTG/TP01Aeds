@@ -7,6 +7,9 @@ typedef struct {
     Mponto* compartimento;
     float latitude;
     float longitude;
+    float Capacidade;
+    float Velocidade;
+    float Combustivel;
     char EstaLigada[6];
 
 } Sonda_Espacial;

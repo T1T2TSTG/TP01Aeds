@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
@@ -17,4 +17,4 @@ int main() {
     fclose(arquivo);
     printf("\nArquivo fechado com sucesso\n");
     return 0;
-}
+}*/
